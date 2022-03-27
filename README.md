@@ -13,4 +13,9 @@ Trying to learn more language and framework.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackson93150&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=chartreuse-dark)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson93150&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
   
-
+## Repositories
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=JsGame&theme=chartreuse-dark)](https://github.com/Jackson93150/JsGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=Portfolio&theme=chartreuse-dark)](https://github.com/Jackson93150/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=London_Dijkstra&theme=chartreuse-dark)](https://github.com/Jackson93150/London_Dijkstra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=RetroRunner-&theme=chartreuse-dark)](https://github.com/Jackson93150/RetroRunner-)
