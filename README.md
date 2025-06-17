@@ -12,8 +12,9 @@ native French speaker
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson93150&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
   
 ## Repositories
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=Lootopia&theme=chartreuse-dark)](https://github.com/Jackson93150/Lootopia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=instamint&theme=chartreuse-dark)](https://github.com/Jackson93150/instamint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=JsGame&theme=chartreuse-dark)](https://github.com/Jackson93150/JsGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=Portfolio&theme=chartreuse-dark)](https://github.com/Jackson93150/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=London_Dijkstra&theme=chartreuse-dark)](https://github.com/Jackson93150/London_Dijkstra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=LeagueStats&theme=chartreuse-dark)](https://github.com/Jackson93150/LeagueStats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson93150&repo=MyPortfolio&theme=chartreuse-dark)](https://github.com/Jackson93150/MyPortfolio)
+
